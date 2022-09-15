@@ -1,2 +1,6 @@
 main.py
-print "Hello World"
+
+print "Hello"
+print "goodbye"
+
+
